@@ -1,0 +1,10 @@
+.body {
+   margin: 0 auto;
+}
+
+.group-container {
+    margin-top: 200px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
